@@ -1,0 +1,134 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.928; Version 2004; 64bit' Language: 'ru' Physical Memory: 8019 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/gamedev/gameHok/GameCh4
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50095
+Successfully changed project path to: C:/gamedev/gameHok/GameCh4
+C:/gamedev/gameHok/GameCh4
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 36.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/gamedev/gameHok/GameCh4/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x152)
+    Vendor:   
+    VRAM:     128 MB
+    Driver:   10.18.10.4358
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56012
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005004 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 31.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.122 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001277 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.135 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.2 MB.
+System memory in use after: 69.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 1.924400 ms (FindLiveObjects: 0.156300 ms CreateObjectMapping: 0.051000 ms MarkObjects: 1.626200 ms  DeleteObjects: 0.089300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(3f240b0268bbec046a1d16ac4f6b6bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(3f240b0268bbec046a1d16ac4f6b6bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd42d17fc6b56ed71497700928cac063b') in 0.041645 seconds
+  Import took 0.044369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2414.429478 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '819a33a9bd799f71faca6db75e8a216c') in 0.007920 seconds
+  Import took 0.012809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.938558 seconds.
+  path: Assets/Textures
+  artifactKey: Guid(8d4daae6bdfd14e459edf0276d5f451c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures using Guid(8d4daae6bdfd14e459edf0276d5f451c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abca8be3abaec7d65de687372b62adff') in 0.007836 seconds
+  Import took 0.010989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.416907 seconds.
+  path: Assets/Textures/Wood_OSB.png
+  artifactKey: Guid(c8aa2fe7367f24641b5ae1f54728a8d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood_OSB.png using Guid(c8aa2fe7367f24641b5ae1f54728a8d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01df22ef756c34ba3457a6713f2276c3') in 0.110739 seconds
+  Import took 0.114018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 671.306649 seconds.
+  path: Assets/Textures/Wood_IndoorSiding.png
+  artifactKey: Guid(7b9af7d12dbe12d408cfdb3894c84edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood_IndoorSiding.png using Guid(7b9af7d12dbe12d408cfdb3894c84edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e599a0eed8d7b5f225fcf083147b375') in 0.018130 seconds
+  Import took 0.022221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 550.239105 seconds.
+  path: Assets/Textures/WoodSiding2_2x2.png
+  artifactKey: Guid(bd82e00989544e447986412a12c77b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/WoodSiding2_2x2.png using Guid(bd82e00989544e447986412a12c77b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f488ff117c548e5f2ddb0953a9a6f2c3') in 0.039549 seconds
+  Import took 0.042549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001497 seconds.
+  path: Assets/Textures/WoodSiding2_2x2.png
+  artifactKey: Guid(bd82e00989544e447986412a12c77b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/WoodSiding2_2x2.png using Guid(bd82e00989544e447986412a12c77b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f488ff117c548e5f2ddb0953a9a6f2c3') in 0.014661 seconds
+  Import took 0.019158 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
